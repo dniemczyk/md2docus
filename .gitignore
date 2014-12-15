@@ -1,2 +1,3 @@
-# Ignore generated PDF files
+# Ignore generated LaTeX and PDF files
 *.pdf
+*.tex
